@@ -27,14 +27,14 @@ A structured record of completed LabEx hands-on labs. Completion dates and lab n
 | 19 | The Time Traveler's Suitcase | Git |  | Initialized a Git repository, created a file, staged changes, and used `git diff --staged` to inspect exactly what was prepared for commit. |
 | 20 | Git Branch Basic Operations | Git |  | Created branches, switched between branches with `git checkout` or `git switch`, committed changes on a separate branch, merged branches, and deleted branches. |
 | 21 | Getting Started with Linux (retry) | Linux |  | Repeated the terminal basics lab; practiced `pwd`, `echo`, `date`, `cal`, `expr`, `figlet`, and `clear`, used simple options, and saved output in files. |
-| 22 | — | — | — | — |
-| 23 | — | — | — | — |
-| 24 | — | — | — | — |
-| 25 | — | — | — | — |
-| 26 | — | — | — | — |
-| 27 | — | — | — | — |
-| 28 | — | — | — | — |
-| 29 | — | — | — | — |
+| 22 | Save a Terminal Banner | Linux |  | Used two commands and one redirection operator from the guided lab to save a reusable ASCII-art terminal banner. |
+| 23 | Basic File Operations in Linux | Linux |  |  |
+| 24 | Working with Shell Variables | Shell |  |  |
+| 25 | Finding the Pirate's Treasure | Shell |  |  |
+| 26 | Passing Arguments to the Script | Shell |  |  |
+| 27 | Shell Arrays | Shell |  |  |
+| 28 | Interstellar Cargo Manifest | Shell |  |  |
+| 29 | Arithmetic Operations in Shell | Shell |  |  |
 | 30 | — | — | — | — |
 | 31 | — | — | — | — |
 | 32 | — | — | — | — |
