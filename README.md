@@ -26,15 +26,33 @@ Variables, command substitution, arithmetic, command-line arguments, conditional
 ```text
 labex-learning/
 ├── README.md
+├── labs/
+│   ├── linux/
+│   │   ├── 01-your-first-linux-lab.md
+│   │   ├── 02-display-user-and-group-information.md
+│   │   └── ...
+│   ├── git/
+│   │   ├── 17-time-machine-identity-configuration.md
+│   │   ├── 18-working-with-files-and-staging-area.md
+│   │   └── ...
+│   └── shell/
+│       ├── 24-working-with-shell-variables.md
+│       ├── 25-finding-the-pirates-treasure.md
+│       └── ...
 └── progress/
     └── lab-history.md
 ```
 
-- [`progress/lab-history.md`](progress/lab-history.md) — detailed documented lab history and key takeaways.
+## Navigation
+
+- [`labs/linux/`](labs/linux/) — individual Linux lab notes
+- [`labs/git/`](labs/git/) — individual Git lab notes
+- [`labs/shell/`](labs/shell/) — individual Shell/Bash lab notes
+- [`progress/lab-history.md`](progress/lab-history.md) — central index linking to every documented lab
 
 ## Notes on the History
 
-Repeated lab names can represent retry activity rather than a new topic. For example, the second **Getting Started with Linux** entry is retained and labeled as a retry.
+Repeated lab names can represent retry activity rather than a new topic. The second **Getting Started with Linux** entry is retained and labeled as a retry.
 
 Completion dates are included only where they are documented. No dates, lab names, or technical takeaways are invented to make the record look complete.
 
