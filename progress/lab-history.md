@@ -8,7 +8,7 @@ A structured record of completed LabEx hands-on labs. Completion dates and lab n
 |---:|---|---|---|---|
 | 01 | Your First Linux Lab | Linux | 2026-08-23 | Opened and used the terminal; practiced `echo`, `whoami`, and `id`; used `id -un` to extract the current username. |
 | 02 | Display User and Group Information | Linux | 2026-08-25 | Used `whoami` and `id` to inspect the current user, UID, primary GID, and supplementary groups; connected this to permissions and troubleshooting. |
-| 03 | — | — | — | — |
+| 03 | Basic Files Operations | Linux | 2026-08-25 | Navigated the file system with `cd` and `pwd`; created files/directories with `touch` and `mkdir`; practiced `ls`, `cp`, `mv`, `rm`, and `rmdir`. |
 | 04 | — | — | — | — |
 | 05 | — | — | — | — |
 | 06 | — | — | — | — |
