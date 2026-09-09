@@ -19,7 +19,7 @@ A structured record of completed LabEx hands-on labs. Completion dates and lab n
 | 11 | The Lay of the Land | Linux | 2026-08-29 | Practiced `whoami`, `uname`, `who`, `id`, `top`, and output redirection (`>` and `>>`) to inspect a system, check users/processes, and document findings. |
 | 12 | The Digital Architect | Linux | 2026-08-29 | Used `mkdir`, `mv`, `cp`, `tar`, and `rm` to organize a development environment, secure configurations with backups, and archive old logs. |
 | 13 | The Log Investigator | Linux |  | Used `grep` to filter logs, `dmesg` for system-level diagnostics, `diff` for configuration comparison, and pipelines/redirection to process and document troubleshooting findings. |
-| 14 | — | — | — | — |
+| 14 | The Fortress Guardian | Linux |  | Practiced Linux security fundamentals: file permissions, ownership, directory security, setgid permissions, and collaborative workspaces with controlled access. |
 | 15 | — | — | — | — |
 | 16 | — | — | — | — |
 | 17 | — | — | — | — |
