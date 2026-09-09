@@ -15,7 +15,7 @@ A structured record of completed LabEx hands-on labs. Completion dates and lab n
 | 07 | Permissions of Files | Linux |  | Used `touch`, `chown`, and `chmod` to manage ownership and file/directory permissions; practiced numeric and symbolic `chmod` notation and understood why execute permission is needed for scripts. |
 | 08 | Change File Ownership | Linux |  | Created files with `touch`, changed ownership with `chown`, modified permissions with `chmod`, and viewed file details with `ls`. |
 | 09 | User Account Management | Linux |  | Created user accounts, set passwords, modified home directory/default shell, added users to groups, locked/unlocked accounts, and deleted accounts; learned about `/etc/passwd`, home directories, shells, and user groups. |
-| 10 | — | — | — | — |
+| 10 | The Joker's Trick | Linux |  | Practiced creating user accounts with different specifications, setting/changing passwords, modifying account properties, and deleting accounts with or without removing home directories. |
 | 11 | — | — | — | — |
 | 12 | — | — | — | — |
 | 13 | — | — | — | — |
