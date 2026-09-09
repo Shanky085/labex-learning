@@ -25,7 +25,7 @@ A structured record of completed LabEx hands-on labs. Completion dates and lab n
 | 17 | Time Machine Identity Configuration | Git |  | Initialized a Git repository; configured global Git identity and a separate local identity for a specific repository/experiment. |
 | 18 | Working with Files and Staging Area | Git |  | Used `git add` to stage files, `.gitignore` to exclude files, `git diff` to review changes, and `git restore --staged` to unstage changes; learned selective commits and cleaner repository management. |
 | 19 | The Time Traveler's Suitcase | Git |  | Initialized a Git repository, created a file, staged changes, and used `git diff --staged` to inspect exactly what was prepared for commit. |
-| 20 | — | — | — | — |
+| 20 | Git Branch Basic Operations | Git |  | Created branches, switched between branches with `git checkout` or `git switch`, committed changes on a separate branch, merged branches, and deleted branches. |
 | 21 | — | — | — | — |
 | 22 | — | — | — | — |
 | 23 | — | — | — | — |
