@@ -27,8 +27,8 @@ A structured record of completed LabEx hands-on labs. Completion dates and lab n
 | 19 | The Time Traveler's Suitcase | Git |  | Initialized a Git repository, created a file, staged changes, and used `git diff --staged` to inspect exactly what was prepared for commit. |
 | 20 | Git Branch Basic Operations | Git |  | Created branches, switched between branches with `git checkout` or `git switch`, committed changes on a separate branch, merged branches, and deleted branches. |
 | 21 | Getting Started with Linux (retry) | Linux |  | Repeated the terminal basics lab; practiced `pwd`, `echo`, `date`, `cal`, `expr`, `figlet`, and `clear`, used simple options, and saved output in files. |
-| 22 | Save a Terminal Banner | Linux |  | Used two commands and one redirection operator from the guided lab to save a reusable ASCII-art terminal banner. |
-| 23 | Basic File Operations in Linux | Linux |  |  |
+| 22 | Save a Terminal Banner | Linux |  | Used `figlet` with output redirection to save the default ASCII-art rendering of `Welcome` into `welcome-banner.txt`, with no additional text. |
+| 23 | Basic File Operations in Linux | Linux |  | Used absolute and relative paths to navigate; inspected hidden entries and metadata; created directory trees and text files; used wildcards; compared copying, moving, and permanent removal; practiced command recall, Tab completion, `Ctrl+C`, and `Ctrl+L`. |
 | 24 | Working with Shell Variables | Shell |  |  |
 | 25 | Finding the Pirate's Treasure | Shell |  |  |
 | 26 | Passing Arguments to the Script | Shell |  |  |
