@@ -1,8 +1,8 @@
 # LabEx Learning History
 
-A structured record of completed LabEx hands-on labs. Completion dates and lab names are taken from the LabEx activity history. Repeated entries are treated as retries of the same lab unless they represent a distinct completed lab.
+A structured record of the LabEx hands-on labs documented from the available activity history and completion summaries. Repeated entries are retained when they represent retry activity; no missing dates or lab details are invented.
 
-## 43-Lab History
+## Documented Lab History
 
 | # | Lab | Area | Completed | Key takeaway |
 |---:|---|---|---|---|
@@ -21,7 +21,7 @@ A structured record of completed LabEx hands-on labs. Completion dates and lab n
 | 13 | The Log Investigator | Linux |  | Used `grep` to filter logs, `dmesg` for system-level diagnostics, `diff` for configuration comparison, and pipelines/redirection to process and document troubleshooting findings. |
 | 14 | The Fortress Guardian | Linux |  | Practiced Linux security fundamentals: file permissions, ownership, directory security, setgid permissions, and collaborative workspaces with controlled access. |
 | 15 | The Keeper of the Keys | Linux |  | Created and configured user accounts, secured home directories, used `passwd` for password policies, managed group memberships, and disabled unauthorized access while preserving audit trails. |
-| 16 | Getting Started with Linux | Linux |  | Practiced the terminal's basic interaction pattern: entered commands, pressed Enter, and interpreted results; used `pwd`, `echo`, `date`, `cal`, `expr`, `figlet`, and `clear`; practiced simple options and saved command output to files. |
+| 16 | Getting Started with Linux | Linux |  | Practiced the terminal's basic interaction pattern; used `pwd`, `echo`, `date`, `cal`, `expr`, `figlet`, and `clear`; practiced simple options and saved command output to files. |
 | 17 | Time Machine Identity Configuration | Git |  | Initialized a Git repository; configured global Git identity and a separate local identity for a specific repository/experiment. |
 | 18 | Working with Files and Staging Area | Git |  | Used `git add` to stage files, `.gitignore` to exclude files, `git diff` to review changes, and `git restore --staged` to unstage changes; learned selective commits and cleaner repository management. |
 | 19 | The Time Traveler's Suitcase | Git |  | Initialized a Git repository, created a file, staged changes, and used `git diff --staged` to inspect exactly what was prepared for commit. |
@@ -40,14 +40,7 @@ A structured record of completed LabEx hands-on labs. Completion dates and lab n
 | 32 | Git Config Management | Git |  | Mastered `git config`; configured Git identity, color output, Nano as the default editor, line-ending behavior, aliases, and experiment-specific repository settings. |
 | 33 | Get Help on Linux Commands | Linux |  | Learned a repeatable help strategy: used `type` or `command -V` to identify a name, Bash `help` or a program's `--help` for quick syntax, `man` for complete documentation, and `apropos` when the topic was known but the command was not. |
 | 34 | Hello Bash | Shell |  | Created and executed a simple Bash shell script; used the WebIDE terminal/editor, created a script with a shebang, printed text with `echo`, made the script executable with `chmod`, ran it from the command line, and viewed file contents with `cat`. |
-| 35 | — | — | — | — |
-| 36 | — | — | — | — |
-| 37 | — | — | — | — |
-| 38 | — | — | — | — |
-| 39 | — | — | — | — |
-| 40 | — | — | — | — |
-| 41 | — | — | — | — |
-| 42 | — | — | — | — |
-| 43 | — | — | — | — |
 
-> Remaining entries will be added from the LabEx activity history and summaries. No completion dates or technical takeaways will be invented.
+## Scope Note
+
+Only labs for which a name and/or completion summary was available are listed here. Undocumented activity entries are intentionally omitted rather than replaced with guesses.
