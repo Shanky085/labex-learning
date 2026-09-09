@@ -1,6 +1,6 @@
 # LabEx Learning History
 
-A structured record of completed LabEx hands-on labs. Completion dates and lab names are taken from the LabEx activity history. Repeated entries are kept only when they represent a distinct completed lab; retries can be noted separately when needed.
+A structured record of completed LabEx hands-on labs. Completion dates and lab names are taken from the LabEx activity history. Repeated entries are treated as retries of the same lab unless they represent a distinct completed lab.
 
 ## 43-Lab History
 
@@ -9,7 +9,7 @@ A structured record of completed LabEx hands-on labs. Completion dates and lab n
 | 01 | Your First Linux Lab | Linux | 2026-08-23 | Opened and used the terminal; practiced `echo`, `whoami`, and `id`; used `id -un` to extract the current username. |
 | 02 | Display User and Group Information | Linux | 2026-08-25 | Used `whoami` and `id` to inspect the current user, UID, primary GID, and supplementary groups; connected this to permissions and troubleshooting. |
 | 03 | Basic Files Operations | Linux | 2026-08-25 | Navigated the file system with `cd` and `pwd`; created files/directories with `touch` and `mkdir`; practiced `ls`, `cp`, `mv`, `rm`, and `rmdir`. |
-| 04 | — | — | — | — |
+| 04 | Files and Directories | Linux | 2026-08-25 | Practiced `cp` for duplication, `mv` for moving/renaming, and `rm` for removing files and directories. |
 | 05 | — | — | — | — |
 | 06 | — | — | — | — |
 | 07 | — | — | — | — |
@@ -50,4 +50,4 @@ A structured record of completed LabEx hands-on labs. Completion dates and lab n
 | 42 | — | — | — | — |
 | 43 | — | — | — | — |
 
-> The remaining entries will be added from the LabEx activity history and summaries. No completion dates or technical takeaways will be invented.
+> Remaining entries will be added from the LabEx activity history and summaries. No completion dates or technical takeaways will be invented.
