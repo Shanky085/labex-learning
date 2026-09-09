@@ -24,7 +24,7 @@ A structured record of completed LabEx hands-on labs. Completion dates and lab n
 | 16 | Getting Started with Linux | Linux |  | Practiced the terminal's basic interaction pattern: entered commands, pressed Enter, and interpreted results; used `pwd`, `echo`, `date`, `cal`, `expr`, `figlet`, and `clear`; practiced simple options and saved command output to files. |
 | 17 | Time Machine Identity Configuration | Git |  | Initialized a Git repository; configured global Git identity and a separate local identity for a specific repository/experiment. |
 | 18 | Working with Files and Staging Area | Git |  | Used `git add` to stage files, `.gitignore` to exclude files, `git diff` to review changes, and `git restore --staged` to unstage changes; learned selective commits and cleaner repository management. |
-| 19 | — | — | — | — |
+| 19 | The Time Traveler's Suitcase | Git |  | Initialized a Git repository, created a file, staged changes, and used `git diff --staged` to inspect exactly what was prepared for commit. |
 | 20 | — | — | — | — |
 | 21 | — | — | — | — |
 | 22 | — | — | — | — |
