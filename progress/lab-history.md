@@ -22,7 +22,7 @@ A structured record of completed LabEx hands-on labs. Completion dates and lab n
 | 14 | The Fortress Guardian | Linux |  | Practiced Linux security fundamentals: file permissions, ownership, directory security, setgid permissions, and collaborative workspaces with controlled access. |
 | 15 | The Keeper of the Keys | Linux |  | Created and configured user accounts, secured home directories, used `passwd` for password policies, managed group memberships, and disabled unauthorized access while preserving audit trails. |
 | 16 | Getting Started with Linux | Linux |  | Practiced the terminal's basic interaction pattern: entered commands, pressed Enter, and interpreted results; used `pwd`, `echo`, `date`, `cal`, `expr`, `figlet`, and `clear`; practiced simple options and saved command output to files. |
-| 17 | Time Machine Identity Configuration | Git |  |  |
+| 17 | Time Machine Identity Configuration | Git |  | Initialized a Git repository; configured global Git identity and a separate local identity for a specific repository/experiment. |
 | 18 | — | — | — | — |
 | 19 | — | — | — | — |
 | 20 | — | — | — | — |
