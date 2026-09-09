@@ -20,7 +20,7 @@ A structured record of completed LabEx hands-on labs. Completion dates and lab n
 | 12 | The Digital Architect | Linux | 2026-08-29 | Used `mkdir`, `mv`, `cp`, `tar`, and `rm` to organize a development environment, secure configurations with backups, and archive old logs. |
 | 13 | The Log Investigator | Linux |  | Used `grep` to filter logs, `dmesg` for system-level diagnostics, `diff` for configuration comparison, and pipelines/redirection to process and document troubleshooting findings. |
 | 14 | The Fortress Guardian | Linux |  | Practiced Linux security fundamentals: file permissions, ownership, directory security, setgid permissions, and collaborative workspaces with controlled access. |
-| 15 | — | — | — | — |
+| 15 | The Keeper of the Keys | Linux |  | Created and configured user accounts, secured home directories, used `passwd` for password policies, managed group memberships, and disabled unauthorized access while preserving audit trails. |
 | 16 | — | — | — | — |
 | 17 | — | — | — | — |
 | 18 | — | — | — | — |
