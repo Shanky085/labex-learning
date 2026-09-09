@@ -31,7 +31,7 @@ A structured record of completed LabEx hands-on labs. Completion dates and lab n
 | 23 | Basic File Operations in Linux | Linux |  | Used absolute and relative paths to navigate; inspected hidden entries and metadata; created directory trees and text files; used wildcards; compared copying, moving, and permanent removal; practiced command recall, Tab completion, `Ctrl+C`, and `Ctrl+L`. |
 | 24 | Working with Shell Variables | Shell |  | Learned to create and reference shell variables, use command substitution to capture command output, perform arithmetic with variables, and work with environment variables. |
 | 25 | Finding the Pirate's Treasure | Shell |  | Learned shell scripting fundamentals: assigning values to variables, performing arithmetic operations in shell scripts, executing scripts, and formatting output. |
-| 26 | Passing Arguments to the Script | Shell |  |  |
+| 26 | Passing Arguments to the Script | Shell |  | Created executable shell scripts that accept command-line arguments; used `$1`, `$2`, `$#`, and `$@`; applied conditional logic for argument counts and iterated over all supplied arguments. |
 | 27 | Shell Arrays | Shell |  |  |
 | 28 | Interstellar Cargo Manifest | Shell |  |  |
 | 29 | Arithmetic Operations in Shell | Shell |  |  |
