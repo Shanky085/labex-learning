@@ -36,7 +36,7 @@ A structured record of completed LabEx hands-on labs. Completion dates and lab n
 | 28 | Interstellar Cargo Manifest | Shell |  | Created a simple inventory management system using shell arrays and command-line argument handling; practiced defining arrays, accessing elements, and using `if` statements to process inputs. |
 | 29 | Arithmetic Operations in Shell | Shell |  | Used basic Shell arithmetic operators in a Bash script; practiced variables, `$(( ))` arithmetic expressions, `echo`, shebang syntax, and making scripts executable with `chmod +x`. |
 | 30 | Your First Git Lab | Git |  | Created a Git repository with `git init`; checked repository status with `git status`; staged files with `git add`; created commits with `git commit`; and reviewed project history with `git log`. |
-| 31 | Operation Quantum Leap | Git |  |  |
+| 31 | Operation Quantum Leap | Git |  | Created a Git repository, added a file, staged the change, and made the first commit with a specific message; practiced the fundamental Git workflow. |
 | 32 | Git Config Management | Git |  |  |
 | 33 | Get Help on Linux Commands | Linux |  |  |
 | 34 | Hello Bash | Shell |  |  |
