@@ -14,7 +14,7 @@ A structured record of completed LabEx hands-on labs. Completion dates and lab n
 | 06 | The Manuscript Mystery | Linux | 2026-08-26 | Applied `cat`, `head`, `tail`, and `diff` to examine file contents and uncover differences between manuscript versions. |
 | 07 | Permissions of Files | Linux |  | Used `touch`, `chown`, and `chmod` to manage ownership and file/directory permissions; practiced numeric and symbolic `chmod` notation and understood why execute permission is needed for scripts. |
 | 08 | Change File Ownership | Linux |  | Created files with `touch`, changed ownership with `chown`, modified permissions with `chmod`, and viewed file details with `ls`. |
-| 09 | — | — | — | — |
+| 09 | User Account Management | Linux |  | Created user accounts, set passwords, modified home directory/default shell, added users to groups, locked/unlocked accounts, and deleted accounts; learned about `/etc/passwd`, home directories, shells, and user groups. |
 | 10 | — | — | — | — |
 | 11 | — | — | — | — |
 | 12 | — | — | — | — |
