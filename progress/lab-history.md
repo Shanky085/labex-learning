@@ -29,7 +29,7 @@ A structured record of completed LabEx hands-on labs. Completion dates and lab n
 | 21 | Getting Started with Linux (retry) | Linux |  | Repeated the terminal basics lab; practiced `pwd`, `echo`, `date`, `cal`, `expr`, `figlet`, and `clear`, used simple options, and saved output in files. |
 | 22 | Save a Terminal Banner | Linux |  | Used `figlet` with output redirection to save the default ASCII-art rendering of `Welcome` into `welcome-banner.txt`, with no additional text. |
 | 23 | Basic File Operations in Linux | Linux |  | Used absolute and relative paths to navigate; inspected hidden entries and metadata; created directory trees and text files; used wildcards; compared copying, moving, and permanent removal; practiced command recall, Tab completion, `Ctrl+C`, and `Ctrl+L`. |
-| 24 | Working with Shell Variables | Shell |  |  |
+| 24 | Working with Shell Variables | Shell |  | Learned to create and reference shell variables, use command substitution to capture command output, perform arithmetic with variables, and work with environment variables. |
 | 25 | Finding the Pirate's Treasure | Shell |  |  |
 | 26 | Passing Arguments to the Script | Shell |  |  |
 | 27 | Shell Arrays | Shell |  |  |
