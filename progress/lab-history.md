@@ -16,7 +16,7 @@ A structured record of completed LabEx hands-on labs. Completion dates and lab n
 | 08 | Change File Ownership | Linux |  | Created files with `touch`, changed ownership with `chown`, modified permissions with `chmod`, and viewed file details with `ls`. |
 | 09 | User Account Management | Linux |  | Created user accounts, set passwords, modified home directory/default shell, added users to groups, locked/unlocked accounts, and deleted accounts; learned about `/etc/passwd`, home directories, shells, and user groups. |
 | 10 | The Joker's Trick | Linux |  | Practiced creating user accounts with different specifications, setting/changing passwords, modifying account properties, and deleting accounts with or without removing home directories. |
-| 11 | — | — | — | — |
+| 11 | The Lay of the Land | Linux | 2026-08-29 | Practiced `whoami`, `uname`, `who`, `id`, `top`, and output redirection (`>` and `>>`) to inspect a system, check users/processes, and document findings. |
 | 12 | — | — | — | — |
 | 13 | — | — | — | — |
 | 14 | — | — | — | — |
