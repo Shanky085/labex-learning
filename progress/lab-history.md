@@ -21,7 +21,7 @@ A structured record of completed LabEx hands-on labs. Completion dates and lab n
 | 13 | The Log Investigator | Linux |  | Used `grep` to filter logs, `dmesg` for system-level diagnostics, `diff` for configuration comparison, and pipelines/redirection to process and document troubleshooting findings. |
 | 14 | The Fortress Guardian | Linux |  | Practiced Linux security fundamentals: file permissions, ownership, directory security, setgid permissions, and collaborative workspaces with controlled access. |
 | 15 | The Keeper of the Keys | Linux |  | Created and configured user accounts, secured home directories, used `passwd` for password policies, managed group memberships, and disabled unauthorized access while preserving audit trails. |
-| 16 | Getting Started with Linux | Linux |  | Practiced the terminal's basic interaction pattern: entered commands, pressed Enter, and interpreted results; used `pwd`, `echo`, `date`, `cal`, `expr`, `figlet`, and `clear`; practiced simple options and saved command output to files. |
+| 16 | Getting Started with Linux | Linux |  | Practiced the terminal's basic interaction pattern: entered commands, pressed Enter, and interpreted results; used `pwd`, `echo`, `date`, `cal`, `expr`, `figlet`, and `clear`; practiced simple options and saved output to files. |
 | 17 | Time Machine Identity Configuration | Git |  | Initialized a Git repository; configured global Git identity and a separate local identity for a specific repository/experiment. |
 | 18 | Working with Files and Staging Area | Git |  | Used `git add` to stage files, `.gitignore` to exclude files, `git diff` to review changes, and `git restore --staged` to unstage changes; learned selective commits and cleaner repository management. |
 | 19 | The Time Traveler's Suitcase | Git |  | Initialized a Git repository, created a file, staged changes, and used `git diff --staged` to inspect exactly what was prepared for commit. |
@@ -34,7 +34,7 @@ A structured record of completed LabEx hands-on labs. Completion dates and lab n
 | 26 | Passing Arguments to the Script | Shell |  | Created executable shell scripts that accept command-line arguments; used `$1`, `$2`, `$#`, and `$@`; applied conditional logic for argument counts and iterated over all supplied arguments. |
 | 27 | Shell Arrays | Shell |  | Practiced initializing arrays, adding elements, accessing specific elements, and determining the number of elements in a shell array. |
 | 28 | Interstellar Cargo Manifest | Shell |  | Created a simple inventory management system using shell arrays and command-line argument handling; practiced defining arrays, accessing elements, and using `if` statements to process inputs. |
-| 29 | Arithmetic Operations in Shell | Shell |  |  |
+| 29 | Arithmetic Operations in Shell | Shell |  | Used basic Shell arithmetic operators in a Bash script; practiced variables, `$(( ))` arithmetic expressions, `echo`, shebang syntax, and making scripts executable with `chmod +x`. |
 | 30 | — | — | — | — |
 | 31 | — | — | — | — |
 | 32 | — | — | — | — |
