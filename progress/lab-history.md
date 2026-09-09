@@ -18,7 +18,7 @@ A structured record of completed LabEx hands-on labs. Completion dates and lab n
 | 10 | The Joker's Trick | Linux |  | Practiced creating user accounts with different specifications, setting/changing passwords, modifying account properties, and deleting accounts with or without removing home directories. |
 | 11 | The Lay of the Land | Linux | 2026-08-29 | Practiced `whoami`, `uname`, `who`, `id`, `top`, and output redirection (`>` and `>>`) to inspect a system, check users/processes, and document findings. |
 | 12 | The Digital Architect | Linux | 2026-08-29 | Used `mkdir`, `mv`, `cp`, `tar`, and `rm` to organize a development environment, secure configurations with backups, and archive old logs. |
-| 13 | — | — | — | — |
+| 13 | The Log Investigator | Linux |  | Used `grep` to filter logs, `dmesg` for system-level diagnostics, `diff` for configuration comparison, and pipelines/redirection to process and document troubleshooting findings. |
 | 14 | — | — | — | — |
 | 15 | — | — | — | — |
 | 16 | — | — | — | — |
