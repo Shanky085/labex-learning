@@ -12,7 +12,7 @@ A structured record of completed LabEx hands-on labs. Completion dates and lab n
 | 04 | Files and Directories | Linux | 2026-08-25 | Practiced `cp` for duplication, `mv` for moving/renaming, and `rm` for removing files and directories. |
 | 05 | File Contents and Comparing | Linux | 2026-08-26 | Used `cat` and `cat -n`; inspected file beginnings/endings with `head` and `tail`; compared files with `diff` and directories with `diff -r`; used `man` pages for command reference. |
 | 06 | The Manuscript Mystery | Linux | 2026-08-26 | Applied `cat`, `head`, `tail`, and `diff` to examine file contents and uncover differences between manuscript versions. |
-| 07 | — | — | — | — |
+| 07 | Permissions of Files | Linux |  | Used `touch`, `chown`, and `chmod` to manage ownership and file/directory permissions; practiced numeric and symbolic `chmod` notation and understood why execute permission is needed for scripts. |
 | 08 | — | — | — | — |
 | 09 | — | — | — | — |
 | 10 | — | — | — | — |
