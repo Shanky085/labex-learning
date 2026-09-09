@@ -10,7 +10,7 @@ A structured record of completed LabEx hands-on labs. Completion dates and lab n
 | 02 | Display User and Group Information | Linux | 2026-08-25 | Used `whoami` and `id` to inspect the current user, UID, primary GID, and supplementary groups; connected this to permissions and troubleshooting. |
 | 03 | Basic Files Operations | Linux | 2026-08-25 | Navigated the file system with `cd` and `pwd`; created files/directories with `touch` and `mkdir`; practiced `ls`, `cp`, `mv`, `rm`, and `rmdir`. |
 | 04 | Files and Directories | Linux | 2026-08-25 | Practiced `cp` for duplication, `mv` for moving/renaming, and `rm` for removing files and directories. |
-| 05 | — | — | — | — |
+| 05 | File Contents and Comparing | Linux | 2026-08-26 | Used `cat` and `cat -n`; inspected file beginnings/endings with `head` and `tail`; compared files with `diff` and directories with `diff -r`; used `man` pages for command reference. |
 | 06 | — | — | — | — |
 | 07 | — | — | — | — |
 | 08 | — | — | — | — |
