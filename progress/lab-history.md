@@ -21,7 +21,7 @@ A structured record of completed LabEx hands-on labs. Completion dates and lab n
 | 13 | The Log Investigator | Linux |  | Used `grep` to filter logs, `dmesg` for system-level diagnostics, `diff` for configuration comparison, and pipelines/redirection to process and document troubleshooting findings. |
 | 14 | The Fortress Guardian | Linux |  | Practiced Linux security fundamentals: file permissions, ownership, directory security, setgid permissions, and collaborative workspaces with controlled access. |
 | 15 | The Keeper of the Keys | Linux |  | Created and configured user accounts, secured home directories, used `passwd` for password policies, managed group memberships, and disabled unauthorized access while preserving audit trails. |
-| 16 | Getting Started with Linux | Git |  | Learned core Git concepts: initialized a repository with `git init`, checked repository state with `git status`, staged files with `git add`, created commits with `git commit`, and reviewed history with `git log`. |
+| 16 | Getting Started with Linux | Linux |  | Practiced the terminal's basic interaction pattern: entered commands, pressed Enter, and interpreted results; used `pwd`, `echo`, `date`, `cal`, `expr`, `figlet`, and `clear`; practiced simple options and saved command output to files. |
 | 17 | Time Machine Identity Configuration | Git |  |  |
 | 18 | — | — | — | — |
 | 19 | — | — | — | — |
