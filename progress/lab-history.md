@@ -13,7 +13,7 @@ A structured record of completed LabEx hands-on labs. Completion dates and lab n
 | 05 | File Contents and Comparing | Linux | 2026-08-26 | Used `cat` and `cat -n`; inspected file beginnings/endings with `head` and `tail`; compared files with `diff` and directories with `diff -r`; used `man` pages for command reference. |
 | 06 | The Manuscript Mystery | Linux | 2026-08-26 | Applied `cat`, `head`, `tail`, and `diff` to examine file contents and uncover differences between manuscript versions. |
 | 07 | Permissions of Files | Linux |  | Used `touch`, `chown`, and `chmod` to manage ownership and file/directory permissions; practiced numeric and symbolic `chmod` notation and understood why execute permission is needed for scripts. |
-| 08 | — | — | — | — |
+| 08 | Change File Ownership | Linux |  | Created files with `touch`, changed ownership with `chown`, modified permissions with `chmod`, and viewed file details with `ls`. |
 | 09 | — | — | — | — |
 | 10 | — | — | — | — |
 | 11 | — | — | — | — |
