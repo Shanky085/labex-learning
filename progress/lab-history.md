@@ -1,46 +1,58 @@
 # LabEx Learning History
 
-A structured record of the LabEx hands-on labs documented from the available activity history and completion summaries. Repeated entries are retained when they represent retry activity; no missing dates or lab details are invented.
+A navigable index of the documented LabEx activity history. Detailed notes are split by learning area under `labs/`, with one Markdown file per documented lab. Retry activity is retained where it represents a separate history entry.
 
-## Documented Lab History
+## Linux
 
-| # | Lab | Area | Completed | Key takeaway |
-|---:|---|---|---|---|
-| 01 | Your First Linux Lab | Linux | 2026-08-23 | Opened and used the terminal; practiced `echo`, `whoami`, and `id`; used `id -un` to extract the current username. |
-| 02 | Display User and Group Information | Linux | 2026-08-25 | Used `whoami` and `id` to inspect the current user, UID, primary GID, and supplementary groups; connected this to permissions and troubleshooting. |
-| 03 | Basic Files Operations | Linux | 2026-08-25 | Navigated the file system with `cd` and `pwd`; created files/directories with `touch` and `mkdir`; practiced `ls`, `cp`, `mv`, `rm`, and `rmdir`. |
-| 04 | Files and Directories | Linux | 2026-08-25 | Practiced `cp` for duplication, `mv` for moving/renaming, and `rm` for removing files and directories. |
-| 05 | File Contents and Comparing | Linux | 2026-08-26 | Used `cat` and `cat -n`; inspected file beginnings/endings with `head` and `tail`; compared files with `diff` and directories with `diff -r`; used `man` pages for command reference. |
-| 06 | The Manuscript Mystery | Linux | 2026-08-26 | Applied `cat`, `head`, `tail`, and `diff` to examine file contents and uncover differences between manuscript versions. |
-| 07 | Permissions of Files | Linux |  | Used `touch`, `chown`, and `chmod` to manage ownership and file/directory permissions; practiced numeric and symbolic `chmod` notation and understood why execute permission is needed for scripts. |
-| 08 | Change File Ownership | Linux |  | Created files with `touch`, changed ownership with `chown`, modified permissions with `chmod`, and viewed file details with `ls`. |
-| 09 | User Account Management | Linux |  | Created user accounts, set passwords, modified home directory/default shell, added users to groups, locked/unlocked accounts, and deleted accounts; learned about `/etc/passwd`, home directories, shells, and user groups. |
-| 10 | The Joker's Trick | Linux |  | Practiced creating user accounts with different specifications, setting/changing passwords, modifying account properties, and deleting accounts with or without removing home directories. |
-| 11 | The Lay of the Land | Linux | 2026-08-29 | Practiced `whoami`, `uname`, `who`, `id`, `top`, and output redirection (`>` and `>>`) to inspect a system, check users/processes, and document findings. |
-| 12 | The Digital Architect | Linux | 2026-08-29 | Used `mkdir`, `mv`, `cp`, `tar`, and `rm` to organize a development environment, secure configurations with backups, and archive old logs. |
-| 13 | The Log Investigator | Linux |  | Used `grep` to filter logs, `dmesg` for system-level diagnostics, `diff` for configuration comparison, and pipelines/redirection to process and document troubleshooting findings. |
-| 14 | The Fortress Guardian | Linux |  | Practiced Linux security fundamentals: file permissions, ownership, directory security, setgid permissions, and collaborative workspaces with controlled access. |
-| 15 | The Keeper of the Keys | Linux |  | Created and configured user accounts, secured home directories, used `passwd` for password policies, managed group memberships, and disabled unauthorized access while preserving audit trails. |
-| 16 | Getting Started with Linux | Linux |  | Practiced the terminal's basic interaction pattern; used `pwd`, `echo`, `date`, `cal`, `expr`, `figlet`, and `clear`; practiced simple options and saved command output to files. |
-| 17 | Time Machine Identity Configuration | Git |  | Initialized a Git repository; configured global Git identity and a separate local identity for a specific repository/experiment. |
-| 18 | Working with Files and Staging Area | Git |  | Used `git add` to stage files, `.gitignore` to exclude files, `git diff` to review changes, and `git restore --staged` to unstage changes; learned selective commits and cleaner repository management. |
-| 19 | The Time Traveler's Suitcase | Git |  | Initialized a Git repository, created a file, staged changes, and used `git diff --staged` to inspect exactly what was prepared for commit. |
-| 20 | Git Branch Basic Operations | Git |  | Created branches, switched between branches with `git checkout` or `git switch`, committed changes on a separate branch, merged branches, and deleted branches. |
-| 21 | Getting Started with Linux (retry) | Linux |  | Repeated the terminal basics lab; practiced `pwd`, `echo`, `date`, `cal`, `expr`, `figlet`, and `clear`, used simple options, and saved output in files. |
-| 22 | Save a Terminal Banner | Linux |  | Used `figlet` with output redirection to save the default ASCII-art rendering of `Welcome` into `welcome-banner.txt`, with no additional text. |
-| 23 | Basic File Operations in Linux | Linux |  | Used absolute and relative paths to navigate; inspected hidden entries and metadata; created directory trees and text files; used wildcards; compared copying, moving, and permanent removal; practiced command recall, Tab completion, `Ctrl+C`, and `Ctrl+L`. |
-| 24 | Working with Shell Variables | Shell |  | Learned to create and reference shell variables, use command substitution to capture command output, perform arithmetic with variables, and work with environment variables. |
-| 25 | Finding the Pirate's Treasure | Shell |  | Learned shell scripting fundamentals: assigning values to variables, performing arithmetic operations in shell scripts, executing scripts, and formatting output. |
-| 26 | Passing Arguments to the Script | Shell |  | Created executable shell scripts that accept command-line arguments; used `$1`, `$2`, `$#`, and `$@`; applied conditional logic for argument counts and iterated over all supplied arguments. |
-| 27 | Shell Arrays | Shell |  | Practiced initializing arrays, adding elements, accessing specific elements, and determining the number of elements in a shell array. |
-| 28 | Interstellar Cargo Manifest | Shell |  | Created a simple inventory management system using shell arrays and command-line argument handling; practiced defining arrays, accessing elements, and using `if` statements to process inputs. |
-| 29 | Arithmetic Operations in Shell | Shell |  | Used basic Shell arithmetic operators in a Bash script; practiced variables, `$(( ))` arithmetic expressions, `echo`, shebang syntax, and making scripts executable with `chmod +x`. |
-| 30 | Your First Git Lab | Git |  | Created a Git repository with `git init`; checked repository status with `git status`; staged files with `git add`; created commits with `git commit`; and reviewed project history with `git log`. |
-| 31 | Operation Quantum Leap | Git |  | Created a Git repository, added a file, staged the change, and made the first commit with a specific message; practiced the fundamental Git workflow. |
-| 32 | Git Config Management | Git |  | Mastered `git config`; configured Git identity, color output, Nano as the default editor, line-ending behavior, aliases, and experiment-specific repository settings. |
-| 33 | Get Help on Linux Commands | Linux |  | Learned a repeatable help strategy: used `type` or `command -V` to identify a name, Bash `help` or a program's `--help` for quick syntax, `man` for complete documentation, and `apropos` when the topic was known but the command was not. |
-| 34 | Hello Bash | Shell |  | Created and executed a simple Bash shell script; used the WebIDE terminal/editor, created a script with a shebang, printed text with `echo`, made the script executable with `chmod`, ran it from the command line, and viewed file contents with `cat`. |
+| # | Lab | Completed | Notes |
+|---:|---|---|---|
+| 01 | [Your First Linux Lab](../labs/linux/01-your-first-linux-lab.md) | 2026-08-23 | Terminal and identity basics. |
+| 02 | [Display User and Group Information](../labs/linux/02-display-user-and-group-information.md) | 2026-08-25 | User, UID, GID, and group inspection. |
+| 03 | [Basic Files Operations](../labs/linux/03-basic-files-operations.md) | 2026-08-25 | Navigation and core file operations. |
+| 04 | [Files and Directories](../labs/linux/04-files-and-directories.md) | 2026-08-25 | Copy, move, rename, and removal. |
+| 05 | [File Contents and Comparing](../labs/linux/05-file-contents-and-comparing.md) | 2026-08-26 | File inspection and comparison. |
+| 06 | [The Manuscript Mystery](../labs/linux/06-the-manuscript-mystery.md) | 2026-08-26 | Practical file comparison. |
+| 07 | [Permissions of Files](../labs/linux/07-permissions-of-files.md) | — | Permissions and ownership. |
+| 08 | [Change File Ownership](../labs/linux/08-change-file-ownership.md) | — | Ownership and permission management. |
+| 09 | [User Account Management](../labs/linux/09-user-account-management.md) | — | User and group administration. |
+| 10 | [The Joker's Trick](../labs/linux/10-the-jokers-trick.md) | — | User account operations. |
+| 11 | [The Lay of the Land](../labs/linux/11-the-lay-of-the-land.md) | 2026-08-29 | System inspection and output redirection. |
+| 12 | [The Digital Architect](../labs/linux/12-the-digital-architect.md) | 2026-08-29 | Directory organization and archiving. |
+| 13 | [The Log Investigator](../labs/linux/13-the-log-investigator.md) | — | Log and configuration troubleshooting. |
+| 14 | [The Fortress Guardian](../labs/linux/14-the-fortress-guardian.md) | — | Permissions, ownership, and setgid. |
+| 15 | [The Keeper of the Keys](../labs/linux/15-the-keeper-of-the-keys.md) | — | Accounts, passwords, and groups. |
+| 16 | [Getting Started with Linux](../labs/linux/16-getting-started-with-linux.md) | — | Terminal commands and output files. |
+| 21 | [Getting Started with Linux — Retry](../labs/linux/21-getting-started-with-linux-retry.md) | — | Retry of the terminal-basics lab. |
+| 22 | [Save a Terminal Banner](../labs/linux/22-save-a-terminal-banner.md) | — | `figlet` output saved with redirection. |
+| 23 | [Basic File Operations in Linux](../labs/linux/23-basic-file-operations-in-linux.md) | — | Paths, metadata, wildcards, and shell controls. |
+| 33 | [Get Help on Linux Commands](../labs/linux/33-get-help-on-linux-commands.md) | — | Command discovery and documentation strategy. |
 
-## Scope Note
+## Git
 
-Only labs for which a name and/or completion summary was available are listed here. Undocumented activity entries are intentionally omitted rather than replaced with guesses.
+| # | Lab | Completed | Notes |
+|---:|---|---|---|
+| 17 | [Time Machine Identity Configuration](../labs/git/17-time-machine-identity-configuration.md) | — | Global and local Git identity. |
+| 18 | [Working with Files and Staging Area](../labs/git/18-working-with-files-and-staging-area.md) | — | Staging, diff, restore, and `.gitignore`. |
+| 19 | [The Time Traveler's Suitcase](../labs/git/19-the-time-travelers-suitcase.md) | — | Reviewing staged changes. |
+| 20 | [Git Branch Basic Operations](../labs/git/20-git-branch-basic-operations.md) | — | Branching, merging, and deletion. |
+| 30 | [Your First Git Lab](../labs/git/30-your-first-git-lab.md) | — | First repository, staging, commit, and history. |
+| 31 | [Operation Quantum Leap](../labs/git/31-operation-quantum-leap.md) | — | Basic repository, staging, and first commit. |
+| 32 | [Git Config Management](../labs/git/32-git-config-management.md) | — | Git configuration, aliases, editor, and line endings. |
+
+## Shell
+
+| # | Lab | Completed | Notes |
+|---:|---|---|---|
+| 24 | [Working with Shell Variables](../labs/shell/24-working-with-shell-variables.md) | — | Variables, substitution, arithmetic, and environment variables. |
+| 25 | [Finding the Pirate's Treasure](../labs/shell/25-finding-the-pirates-treasure.md) | — | Shell scripting fundamentals. |
+| 26 | [Passing Arguments to the Script](../labs/shell/26-passing-arguments-to-the-script.md) | — | Positional arguments, `$#`, `$@`, conditionals, and loops. |
+| 27 | [Shell Arrays](../labs/shell/27-shell-arrays.md) | — | Array creation, access, and length. |
+| 28 | [Interstellar Cargo Manifest](../labs/shell/28-interstellar-cargo-manifest.md) | — | Arrays with argument handling and `if`. |
+| 29 | [Arithmetic Operations in Shell](../labs/shell/29-arithmetic-operations-in-shell.md) | — | Bash arithmetic and executable scripts. |
+| 34 | [Hello Bash](../labs/shell/34-hello-bash.md) | — | Creating, executing, and inspecting a Bash script. |
+
+## Notes
+
+- `—` means the completion date was not available from the retained history.
+- Lab 21 is explicitly marked as a retry rather than a new topic.
+- Undocumented historical entries are intentionally omitted rather than guessed.
