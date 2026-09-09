@@ -38,7 +38,7 @@ A structured record of completed LabEx hands-on labs. Completion dates and lab n
 | 30 | Your First Git Lab | Git |  | Created a Git repository with `git init`; checked repository status with `git status`; staged files with `git add`; created commits with `git commit`; and reviewed project history with `git log`. |
 | 31 | Operation Quantum Leap | Git |  | Created a Git repository, added a file, staged the change, and made the first commit with a specific message; practiced the fundamental Git workflow. |
 | 32 | Git Config Management | Git |  | Mastered `git config`; configured Git identity, color output, Nano as the default editor, line-ending behavior, aliases, and experiment-specific repository settings. |
-| 33 | Get Help on Linux Commands | Linux |  |  |
+| 33 | Get Help on Linux Commands | Linux |  | Learned a repeatable help strategy: used `type` or `command -V` to identify a name, Bash `help` or a program's `--help` for quick syntax, `man` for complete documentation, and `apropos` when the topic was known but the command was not. |
 | 34 | Hello Bash | Shell |  |  |
 | 35 | — | — | — | — |
 | 36 | — | — | — | — |
