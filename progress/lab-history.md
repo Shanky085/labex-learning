@@ -35,11 +35,11 @@ A structured record of completed LabEx hands-on labs. Completion dates and lab n
 | 27 | Shell Arrays | Shell |  | Practiced initializing arrays, adding elements, accessing specific elements, and determining the number of elements in a shell array. |
 | 28 | Interstellar Cargo Manifest | Shell |  | Created a simple inventory management system using shell arrays and command-line argument handling; practiced defining arrays, accessing elements, and using `if` statements to process inputs. |
 | 29 | Arithmetic Operations in Shell | Shell |  | Used basic Shell arithmetic operators in a Bash script; practiced variables, `$(( ))` arithmetic expressions, `echo`, shebang syntax, and making scripts executable with `chmod +x`. |
-| 30 | — | — | — | — |
-| 31 | — | — | — | — |
-| 32 | — | — | — | — |
-| 33 | — | — | — | — |
-| 34 | — | — | — | — |
+| 30 | Your First Git Lab | Git |  | Created a Git repository with `git init`; checked repository status with `git status`; staged files with `git add`; created commits with `git commit`; and reviewed project history with `git log`. |
+| 31 | Operation Quantum Leap | Git |  |  |
+| 32 | Git Config Management | Git |  |  |
+| 33 | Get Help on Linux Commands | Linux |  |  |
+| 34 | Hello Bash | Shell |  |  |
 | 35 | — | — | — | — |
 | 36 | — | — | — | — |
 | 37 | — | — | — | — |
