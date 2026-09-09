@@ -32,7 +32,7 @@ A structured record of completed LabEx hands-on labs. Completion dates and lab n
 | 24 | Working with Shell Variables | Shell |  | Learned to create and reference shell variables, use command substitution to capture command output, perform arithmetic with variables, and work with environment variables. |
 | 25 | Finding the Pirate's Treasure | Shell |  | Learned shell scripting fundamentals: assigning values to variables, performing arithmetic operations in shell scripts, executing scripts, and formatting output. |
 | 26 | Passing Arguments to the Script | Shell |  | Created executable shell scripts that accept command-line arguments; used `$1`, `$2`, `$#`, and `$@`; applied conditional logic for argument counts and iterated over all supplied arguments. |
-| 27 | Shell Arrays | Shell |  |  |
+| 27 | Shell Arrays | Shell |  | Practiced initializing arrays, adding elements, accessing specific elements, and determining the number of elements in a shell array. |
 | 28 | Interstellar Cargo Manifest | Shell |  |  |
 | 29 | Arithmetic Operations in Shell | Shell |  |  |
 | 30 | — | — | — | — |
