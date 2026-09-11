@@ -4,7 +4,7 @@ A public record of my hands-on Linux, Git, and Shell scripting practice through 
 
 ## Progress
 
-- **34 documented activity entries**
+- **35 documented activity entries**
 - **3 learning areas:** Linux, Git, Shell
 - **1 recorded retry:** Getting Started with Linux
 
@@ -13,7 +13,7 @@ The history is based on the LabEx activity records and completion summaries avai
 ## What I've Practiced
 
 ### Linux
-Terminal fundamentals, file and directory operations, file inspection and comparison, permissions and ownership, user account management, system inspection, troubleshooting, security, paths, wildcards, terminal productivity, and command documentation.
+Terminal fundamentals, file and directory operations, file inspection and comparison, permissions and ownership, user account management, system inspection, troubleshooting, security, paths, wildcards, terminal productivity, command documentation, and file organization/archiving.
 
 ### Git
 Repository initialization, staging and commits, staged diff inspection, branching and merging, Git identity configuration, aliases, editor settings, and repository-specific configuration.
@@ -58,4 +58,4 @@ Completion dates are included only where they are documented. No dates, lab name
 
 ## Current Scope
 
-The repository currently documents Labs 1–34 from the available history. Additional historical entries can be added later when their names and summaries are recovered.
+The repository currently documents Labs 1–35 from the available history. Additional historical entries can be added later when their names and summaries are recovered.
