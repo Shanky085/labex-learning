@@ -1,6 +1,6 @@
 # LabEx Learning Journey
 
-A public record of my hands-on Linux, Git, and Shell scripting practice through LabEx.
+A public record of my hands-on Linux, Git, and Shell/Bash practice through LabEx.
 
 ## Progress
 
