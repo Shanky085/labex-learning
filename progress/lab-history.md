@@ -26,6 +26,7 @@ A navigable index of the documented LabEx activity history. Detailed notes are s
 | 22 | [Save a Terminal Banner](../labs/linux/22-save-a-terminal-banner.md) | — | `figlet` output saved with redirection. |
 | 23 | [Basic File Operations in Linux](../labs/linux/23-basic-file-operations-in-linux.md) | — | Paths, metadata, wildcards, and shell controls. |
 | 33 | [Get Help on Linux Commands](../labs/linux/33-get-help-on-linux-commands.md) | — | Command discovery and documentation strategy. |
+| 35 | [Archive the Draft Files](../labs/linux/35-archive-the-draft-files.md) | 2026-09-11 | Moved a draft file to an archive path while preserving its content. |
 
 ## Git
 
